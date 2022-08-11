@@ -1,26 +1,15 @@
-<div class="principal">
-    <h1>Sobre a Barbearia Alura</h1>
-
-    <p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. 
-    Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
-
-    <p id="missao"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
-
-    <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. 
-    O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
-</div>
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/p5.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/addons/p5.sound.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <meta charset="utf-8" />
+<html lang="pt-br">
+    <h1>Como fazer chá</h1>
 
-  </head>
-  <body>
-    <main>
-    </main>
-    <script src="sketch.js"></script>
-  </body>
-</html>
+<p> <strong>Passo 1:</strong> Vá ao mercado e compre um saquinho de chá. </p>
+ <p> <strong>Passo 2:</strong> Vá para casa. </p>
+ <p> <strong>Passo 3:</strong> Pegue uma xícara. </p>
+ <p> <strong>Passo 4:</strong> Encha a xícara com água. </p>
+ <p> <strong>Passo 5:</strong> Coloque o saquinho dentro da xícara com água. </p>
+ <p> <strong>Passo 6:</strong> Coloque a xícara dentro do micro-ondas e o feche. </p>
+<p> <strong>Passo 7:</strong> Ligue o micro-ondas, e dependendo da potÊncia dele, coloque por entre dois e cinco minutos. </p>
+<p> <strong>Passo 8:</strong> Depois de apitar, tire o chá do micro-ondas com cuidado, pois estará quente. </p>
+ <p> <strong>Passo 9:</strong> Coloque açúcar ou adoçante em seu chá. </p>
+ <p> <strong>Passo 10:</strong> Espere esfriar um pouco,e aproveite seu cházinho! </p>
+  </p></html>
